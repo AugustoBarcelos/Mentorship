@@ -1,0 +1,15 @@
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\bin\Debug\net7.0\OneAway.exe
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\bin\Debug\net7.0\OneAway.deps.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\bin\Debug\net7.0\OneAway.runtimeconfig.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\bin\Debug\net7.0\OneAway.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\bin\Debug\net7.0\OneAway.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.csproj.AssemblyReference.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.AssemblyInfoInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.AssemblyInfo.cs
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.csproj.CoreCompileInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\refint\OneAway.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\OneAway.genruntimeconfig.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\5 - 1.5 One Away\OneAway\OneAway\obj\Debug\net7.0\ref\OneAway.dll

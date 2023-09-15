@@ -1,0 +1,29 @@
+{
+  "sellers": [
+    {
+      "sellerId": "12345",
+      "sellerName": "John Smith",
+      "sellerEmail": "john.smith@example.com"
+    },
+    {
+      "sellerId": "67890",
+      "sellerName": "Jane Doe",
+      "sellerEmail": "jane.doe@example.com"
+    },
+    {
+      "sellerId": "13579",
+      "sellerName": "Bob Johnson",
+      "sellerEmail": "bob.johnson@example.com"
+    },
+    {
+      "sellerId": "24680",
+      "sellerName": "Alice Brown",
+      "sellerEmail": "alice.brown@example.com"
+    },
+    {
+      "sellerId": "97531",
+      "sellerName": "David Lee",
+      "sellerEmail": "david.lee@example.com"
+    }
+  ]
+}

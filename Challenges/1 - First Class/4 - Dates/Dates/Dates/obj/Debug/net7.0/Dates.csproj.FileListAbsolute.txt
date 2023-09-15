@@ -1,0 +1,15 @@
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\bin\Debug\net7.0\Dates.exe
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\bin\Debug\net7.0\Dates.deps.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\bin\Debug\net7.0\Dates.runtimeconfig.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\bin\Debug\net7.0\Dates.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\bin\Debug\net7.0\Dates.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.csproj.AssemblyReference.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.AssemblyInfoInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.AssemblyInfo.cs
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.csproj.CoreCompileInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\refint\Dates.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\Dates.genruntimeconfig.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\4 - Dates\Dates\Dates\obj\Debug\net7.0\ref\Dates.dll

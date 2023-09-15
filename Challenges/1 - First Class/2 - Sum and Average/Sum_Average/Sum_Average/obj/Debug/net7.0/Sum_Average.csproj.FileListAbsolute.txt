@@ -1,0 +1,15 @@
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\bin\Debug\net7.0\Sum_Average.exe
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\bin\Debug\net7.0\Sum_Average.deps.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\bin\Debug\net7.0\Sum_Average.runtimeconfig.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\bin\Debug\net7.0\Sum_Average.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\bin\Debug\net7.0\Sum_Average.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.csproj.AssemblyReference.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.AssemblyInfoInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.AssemblyInfo.cs
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.csproj.CoreCompileInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\refint\Sum_Average.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\Sum_Average.genruntimeconfig.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\2 - Sum and Average\Sum_Average\Sum_Average\obj\Debug\net7.0\ref\Sum_Average.dll

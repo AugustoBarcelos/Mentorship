@@ -1,0 +1,15 @@
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\bin\Debug\net7.0\Exercise 2.exe
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\bin\Debug\net7.0\Exercise 2.deps.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\bin\Debug\net7.0\Exercise 2.runtimeconfig.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\bin\Debug\net7.0\Exercise 2.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\bin\Debug\net7.0\Exercise 2.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.csproj.AssemblyReference.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.AssemblyInfoInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.AssemblyInfo.cs
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\refint\Exercise 2.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\Exercise 2.genruntimeconfig.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Cracking the code Interview\Chapter 1 - Arrays and Strings\2 - 1.2 Check Permutation\Exercise 2\Exercise 2\obj\Debug\net7.0\ref\Exercise 2.dll

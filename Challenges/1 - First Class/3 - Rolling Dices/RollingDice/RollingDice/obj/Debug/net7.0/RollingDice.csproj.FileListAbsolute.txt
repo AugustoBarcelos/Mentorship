@@ -1,0 +1,15 @@
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\bin\Debug\net7.0\RollingDice.exe
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\bin\Debug\net7.0\RollingDice.deps.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\bin\Debug\net7.0\RollingDice.runtimeconfig.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\bin\Debug\net7.0\RollingDice.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\bin\Debug\net7.0\RollingDice.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.csproj.AssemblyReference.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.AssemblyInfoInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.AssemblyInfo.cs
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.csproj.CoreCompileInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\refint\RollingDice.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\RollingDice.genruntimeconfig.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\3 - Rolling Dices\RollingDice\RollingDice\obj\Debug\net7.0\ref\RollingDice.dll

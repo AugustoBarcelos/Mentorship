@@ -1,0 +1,17 @@
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\bin\Debug\net7.0\SellersComission.exe
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\bin\Debug\net7.0\DB\partsPrice.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\bin\Debug\net7.0\DB\sellerId.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\bin\Debug\net7.0\SellersComission.deps.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\bin\Debug\net7.0\SellersComission.runtimeconfig.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\bin\Debug\net7.0\SellersComission.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\bin\Debug\net7.0\SellersComission.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.csproj.AssemblyReference.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.AssemblyInfoInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.AssemblyInfo.cs
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.csproj.CoreCompileInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\refint\SellersComission.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\SellersComission.genruntimeconfig.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\10 - Sellers Commision\SellersComission\SellersComission\obj\Debug\net7.0\ref\SellersComission.dll

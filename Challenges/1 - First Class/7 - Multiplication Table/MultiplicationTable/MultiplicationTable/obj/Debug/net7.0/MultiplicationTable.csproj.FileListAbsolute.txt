@@ -1,0 +1,15 @@
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\bin\Debug\net7.0\MultiplicationTable.exe
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\bin\Debug\net7.0\MultiplicationTable.deps.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\bin\Debug\net7.0\MultiplicationTable.runtimeconfig.json
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\bin\Debug\net7.0\MultiplicationTable.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\bin\Debug\net7.0\MultiplicationTable.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.AssemblyInfo.cs
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\refint\MultiplicationTable.dll
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.pdb
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\MultiplicationTable.genruntimeconfig.cache
+C:\Users\AugustoEgidiodeBarce\Desktop\Mentorship\Challenges\1 - First Class\6 - HangmanGame\MultiplicationTable\MultiplicationTable\obj\Debug\net7.0\ref\MultiplicationTable.dll

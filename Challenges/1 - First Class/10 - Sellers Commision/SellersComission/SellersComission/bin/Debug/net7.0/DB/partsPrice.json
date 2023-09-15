@@ -1,0 +1,19 @@
+{
+  "parts": [
+    {
+      "partId": "001",
+      "partName": "Engine oil",
+      "partPrice": 10.99
+    },
+    {
+      "partId": "002",
+      "partName": "Air filter",
+      "partPrice": 5.99
+    },
+    {
+      "partId": "003",
+      "partName": "Spark plug",
+      "partPrice": 2.99
+    }
+  ]
+}
